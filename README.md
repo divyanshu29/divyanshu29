@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Currently Working at Altimetrik <br>I worked as a Java Backend Developer.<br>I am Currently Learning Gen AI , LLM , Spring AI, Agentic AI and most Stuff Related to AI.<br>
+I am Currently Working at Altimetrik <br>I worked as a Java Backend Developer.<br>I am Currently Learning Gen AI , LLM , Spring AI, Agentic AI and most Stuff Related to AI.<br> I am also Learning Spring AI and Building and learning Projects Using Real Life Scenarios
 
 
 ## 🌐 Socials:
